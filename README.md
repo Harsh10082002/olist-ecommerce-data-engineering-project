@@ -63,8 +63,9 @@ flowchart TD
 - Generated category and state-level sales analysis
 
 ## Project Structure
-
+```text
 notebooks/
 ├── bronze_layer_data_ingestion.py
 ├── silver_layer_data_transformation.py
 └── gold_layer_analytics.py
+```
